@@ -45,3 +45,6 @@ dmypy.json
 env/
 ENV/
 env.bak/
+
+#client
+node_modules/
